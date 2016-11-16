@@ -1,0 +1,2 @@
+# initai
+just init ai
